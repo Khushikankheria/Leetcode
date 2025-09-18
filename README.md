@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Khushikankheria/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Khushikankheria/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Khushikankheria/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khushikankheria/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Khushikankheria/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -52,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Khushikankheria/Leetcode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
