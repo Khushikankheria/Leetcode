@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Khushikankheria/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Khushikankheria/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Khushikankheria/Leetcode/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Khushikankheria/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Khushikankheria/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Khushikankheria/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
