@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Khushikankheria/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [1013-fibonacci-number](https://github.com/Khushikankheria/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khushikankheria/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Khushikankheria/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/Khushikankheria/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
