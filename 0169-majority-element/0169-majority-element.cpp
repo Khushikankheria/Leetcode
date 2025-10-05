@@ -4,18 +4,17 @@ public:
         int count = 0;
         int candidate = 0;
 
-        for (int x : nums) {
-            if(count == 0){
+        for(int x : nums){
+            if (count == 0){
                 candidate = x;
             }
-            if (x == candidate){
+            if ( x == candidate){
                 count++;
-            }
-            if (x != candidate){
+            }else{
                 count--;
             }
-        }
 
+        }
         return candidate;
         
     }
