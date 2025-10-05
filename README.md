@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Khushikankheria/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Khushikankheria/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Khushikankheria/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
