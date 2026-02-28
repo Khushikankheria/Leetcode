@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Khushikankheria/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Khushikankheria/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Khushikankheria/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Khushikankheria/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Khushikankheria/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Khushikankheria/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Khushikankheria/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Khushikankheria/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Khushikankheria/Leetcode/tree/master/0997-find-the-town-judge) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Khushikankheria/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
