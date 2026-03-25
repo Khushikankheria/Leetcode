@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Khushikankheria/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Khushikankheria/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/Khushikankheria/Leetcode/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/Khushikankheria/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Khushikankheria/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Khushikankheria/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Khushikankheria/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushikankheria/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Khushikankheria/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/Khushikankheria/Leetcode/tree/master/0846-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/Khushikankheria/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Khushikankheria/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Khushikankheria/Leetcode/tree/master/0994-rotting-oranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Khushikankheria/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
